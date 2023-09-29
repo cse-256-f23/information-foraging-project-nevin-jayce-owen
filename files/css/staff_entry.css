@@ -22,7 +22,7 @@
     border-width: 1px;
     border-color: #eee;
     border-style: solid;
-    width: 100%;
+    width: 45%;
     margin-bottom: 1.5em;
 }
 
@@ -34,7 +34,7 @@
 
 .individual-staff-member-inner-div img {
     float: left;
-    margin-right: 2em;
+    margin-right: 5em;
 }
 
 .individual-staff-member-data {
