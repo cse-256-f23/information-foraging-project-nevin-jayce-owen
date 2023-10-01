@@ -19,8 +19,8 @@ header {
 }
 
 .container {
-    width: 92%;
-    max-width: 71em;
+    /* width: 92%; */
+    /* max-width: ; */
     margin-left: auto;
     margin-right: auto;
 }
