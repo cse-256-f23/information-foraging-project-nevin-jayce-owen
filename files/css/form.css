@@ -1,12 +1,14 @@
-@import url('header.css');
-@import url('footer.css');
+/* @import url('header.css');
+@import url('footer.css'); */
 @import url('common.css');
 
-main * {
-    font-size: 18px;
-}
 fieldset {
     border: 1px solid gray;
+}
+
+ol li{
+    text-decoration: none;
+    background-color: none !important;
 }
 
 button[type=submit] {
